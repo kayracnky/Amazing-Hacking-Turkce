@@ -8,21 +8,21 @@ Your [contributions](contributing.md) are always welcome !
 
 ## Awesome Repositories
 
-Repository | Description
+Repo | Açıklama
 ---- | ----
-[Android Güvenliği](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
-[Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
-[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
-[CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
-[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
-[Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
-[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
-[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
-[Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
+[Android Güvenliği](https://github.com/ashishb/android-security-awesome) 			| Android güvenliği ile ilgili kaynaklar koleksiyonu
+[Aplikasyon Güvenliği](https://github.com/paragonie/awesome-appsec)								| Aplikasyon güvenliğini bilgi edinmek için kaynaklar
+[Varlık Keşfi](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | Bir güvenlik değerlendirmesi çalışmasının varlık keşfi aşamasında yardımcı olan kaynakların listesi
+[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| Bug Bounty rogramlarının listesi ve Bug Bounty avcılarından gelen yazılar
+[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible sanal ağ sızma testi laboratuvarı. Royce Davis'in "Ağ Sızma Testi Sanatı" kitabının tamamlayıcısı
+[CTF (Bayrağı Ele Geçir)](https://github.com/apsdehal/awesome-ctf) 										| CTF framework, kütüphane ve yazılımlarının listesi
+[Siber Yetenekler](https://github.com/joe-shenouda/awesome-cyber-skills) | Siber becerilerinizi yasal ve güvenli bir şekilde geliştirebileceğiniz bilgisayar korsanlığı ortamlarının derlenmiş listesi
+[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| Topluluk deneyleri ve katkılarının yardımıyla harika DevSecOps araçlarının listesi
+[Gömülü Sistem ve Nesnelerin İnterneti Güvenliği](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | Gömülü Sistem ve Nesnelerin İnterneti güvenliği hakkında harika kaynakların derlenmiş bir listesi
+[Exploit Geliştirme](https://github.com/FabioBaroni/awesome-exploit-development) 	| Exploit geliştirme hakkında bilgi edinmek için kaynaklar
+[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| Fuzzing ve kök neden analizi gibi Exploit geliştirmenin ilk aşamalarını öğrenmek için fuzzing kaynaklarının listesi
+[Hacking](https://github.com/carpedm20/awesome-hacking) 						| Harika Hacking eğitimleri, araçlar ve kaynaklar
+[Hacking Kaynakları](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Sizi daha iyi hale getirmek için hacking / sızma testi kaynakları koleksiyonu!
 [Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
 [Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
