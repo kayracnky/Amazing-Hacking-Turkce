@@ -1,6 +1,6 @@
 ![Awesome Hacking](awesome-hacking-turkce.png)
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking-Turkce) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
+# [Awesome Hacking Türkçe](https://github.com/Hack-with-Github/Awesome-Hacking-Turkce) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
 
 **Hackerlar, pentesterlar ve güvenlik araştırmacıları için harika listelerden oluşan bir koleksiyon.**
 
