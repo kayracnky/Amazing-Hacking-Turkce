@@ -23,7 +23,7 @@ Repo | Açıklama
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| Fuzzing ve kök neden analizi gibi Exploit geliştirmenin ilk aşamalarını öğrenmek için fuzzing kaynaklarının listesi
 [Hacking](https://github.com/carpedm20/awesome-hacking) 						| Harika Hacking eğitimleri, araçlar ve kaynaklar
 [Hacking Kaynakları](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Sizi daha iyi hale getirmek için hacking / sızma testi kaynakları koleksiyonu!
-[Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
+[Honeypots (Bal Küpleri)](https://github.com/paralax/awesome-honeypots) 							| Honeypot kaynaklarının listesi
 [Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
