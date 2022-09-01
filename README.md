@@ -11,7 +11,7 @@ Sizin [katkılarınıza](contributing.md) her zaman açığız!
 Repo | Açıklama
 ---- | ----
 [Android Güvenliği](https://github.com/ashishb/android-security-awesome) 			| Android güvenliği ile ilgili kaynaklar koleksiyonu
-[Aplikasyon Güvenliği](https://github.com/paragonie/awesome-appsec)								| Aplikasyon güvenliğini bilgi edinmek için kaynaklar
+[Aplikasyon Güvenliği](https://github.com/paragonie/awesome-appsec)								| Aplikasyon güvenliği hakkında bilgi edinmek için kaynaklar
 [Varlık Keşfi](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | Bir güvenlik değerlendirmesi çalışmasının varlık keşfi aşamasında yardımcı olan kaynakların listesi
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| Bug Bounty rogramlarının listesi ve Bug Bounty avcılarından gelen yazılar
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible sanal ağ sızma testi laboratuvarı. Royce Davis'in "Ağ Sızma Testi Sanatı" kitabının tamamlayıcısı
